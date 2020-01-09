@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading">Tic Tac Toe</string>
+    <string name="status">Status: </string>
+    <string name="grid">Grid</string>
+    <string name="block">Block</string>
+    <string name="o">O</string>
+    <string name="x">X</string>
+</resources>
